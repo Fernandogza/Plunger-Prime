@@ -1,0 +1,39 @@
+# Map file for tile-based game
+# (Lines that start with '#' are comments)
+# The tiles are:
+#   (Space) Empty tile
+#   A..Z    Tiles A through Z
+#   o       key
+#   !       Special Box
+#   *       Goal
+#   1       Bad Guy 1  
+      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+      BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB             
+      BBBBBBBBBBBR                          CB
+      BBBBBBBBBBBR                   M     MCB
+      BBBBBBBBBBBR             B         M  CB 
+      BBBBBBBBBBBR            BB            CB 
+      BBBBBBBBBBBR            BB  M   M EAS CB
+      BBBBBBBBBB)            BBB        CBR CB   
+      BBBBBBBBBBBB     3   3 BBB    M   LUN CB
+      BBBBBBBBBBBBKgK  BBBBB BBB            CB
+      BBBBBBBBBBBBBBB    3   BBB     M    M CB
+      BBBBBBBBBBBBBBB    B   BBB            CB
+      BBBBBBBBBBBBBBB4444B444BBB M      M   CB
+      BBBBBBBBBBBBBBBBBBBBBBBBBB    M       CB
+      BBBBBBBBBBBBBBBBBBBBBBBBBB      M     CB
+       BBBBBBBBBBBBBBBBBBBBBBBBB         M  CB    
+       BBBBB bBb          K   BB    M       CB   
+       BB     B           K   BB M     M    CB     
+       BB    BBBBB        K   BB          M CB 
+AAS    BB          3B3 M  K   BB   EAS      CB    
+BBR    BB          BBB        BB   LUN  M   CB  
+                         M   3BBM           CB
+    EAS             M        BBB    M     M CB
+    LUN                           M    M    CB
+         MMM            M ES                CB
+                    M     CR     M   M    o CB
+                          CR             EAAPB 
+444444444444444AAAA444K444BBIAAA444444444BBBBB      
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB 

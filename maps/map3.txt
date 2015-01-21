@@ -1,0 +1,36 @@
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+BB BBBB    2   B     BBBBB     1   B       (B
+BB BBBB B BBB  B  BB BBBBB BBBBBBB B  B  BBBB
+B  1    B   B  B  BB 1   B      B  B  BB BBBB
+B BBB BBBBB B BB BBBBBB  BBBBBB B BBB  B BBBB
+B  B  B  B  B  B     BBB        B      B    B
+BB B BBB B BBB BBBBB BB  B   BBBBBBBBBBBBBB B
+B  B  B  B   B     B  B BBBB  B   B B  2  B B
+B BBB B BBBB BBBBB BB B    BB   B   B  B  B B
+B  B  B   BB B     B  BBBB BBBBBBBB BB BB B B
+BB B BBBB BB B BBBBB BB    B     B  B  B  B B
+B  B   1B  B B    1B  B BBBBB    B BB BB BB B
+B BBB  BBB B BBBB  BB B B  B  B  B1 B  B  B B
+B   B   B  B    B  B  B B  1  B  BB BB BB B B
+BBB B B B BBBBB B BB BB B BBB BB    B  B  B B
+B         1       B   B    BB  BBBBBB BB BB B
+B BBBBBBBBBBB BB BBBB   BB  BB      B  B  B B
+B  B   B            BBB 1    BBBBBB BB BBbB B
+BB   B   BB BB BBBB   BBBB B B      B  B  B B
+BBBBBBBBBB   B    BB         B  BBBBB BB BB B
+B    1   B B BBB   BB    BBBBBB B     BB  B B
+B BBBBBBBB   BBBBB  B B  B        BBBBBBB B B
+B   1    BB BBBBBBB     BB  BBBB   BBB    B B
+BBBBBB     1     BBBB   B     BB B BBB BBBB B
+B    BB BBBBBBBB      B   B   B  B  B  B    B
+B BB      B   BBBB   BBB  BBB   BBB B BB BBBB
+B  BB  B BBB       B  BBB      BB   B  B B oB
+BB BBB     B BBBBBBBB  BBB BB     BBBB B B BB
+B  B     BBB B 1   BBB        BB   B   B B  B
+B BBbBB    BBBBBBB  BBBB BB    BBB    BB BB B
+B  2  B BB       B       B   B  B    BB  B  B
+BBBBB B  BB  BBB BBB B BBB B BB    B    BB BB
+B     BB BBB  B  B   B  B  B  BBBB BB    B  B
+B BBBBB   BBB B BB BBBB B BBB   B   B BB BB B
+B       B 1   B               B 1 B   BB  1 B
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
